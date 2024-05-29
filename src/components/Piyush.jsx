@@ -2,7 +2,7 @@ import './Piyush.css'
 const Piyush = () => {
     return (
         <>
-        <h1> Hii Piyush</h1>
+        <h1> Hii Piyush Tuze kuch ni aata h </h1>
         <button>Submit</button>
         </>
     )
